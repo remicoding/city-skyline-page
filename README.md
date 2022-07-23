@@ -12,6 +12,8 @@ The page can be viewed here: [City Skyline](https://remicoding.github.io/city-sk
 
 For your convenience, here are screenshots of the page:
 
-![City Skyline Large Screenshot](img/city-skyline-large.png "City Skyline on Large Screen")
+- Large screen webpage:
+  ![City Skyline Large Screenshot](img/city-skyline-large.png "City Skyline on Large Screen")
 
-![City Skyline Small Screenshot](img/city-skyline-small.png "City Skyline on Small Screen")
+- Reversed small screen webpage:
+  ![City Skyline Small Screenshot](img/city-skyline-small.png "City Skyline on Small Screen")
